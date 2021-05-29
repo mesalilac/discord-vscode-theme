@@ -4,6 +4,9 @@
 	"colors": {
 		"editor.background": "#27292e",
 		"editor.foreground": "#ffffff",
+		"editorLineNumber.activeForeground": "#545ec4",
+		"editor.selectionBackground": "#5865f28f",
+		"editorCursor.foreground": "#5865f2",
 
 		"button.background": "#5865f2",
 		"button.hoverBackground": "#515cdb",
@@ -28,11 +31,10 @@
 		"sideBarSectionHeader.background": "#2f3136",
 		"sideBarTitle.foreground": "#c9c9c9",
 		
-		
 		"list.activeSelectionBackground": "#4852c4",
 		"list.hoverBackground": "#4852c4",
 		"list.inactiveSelectionBackground": "#3d46a8",
-		"list.focusOutline": "#ffffff00"	
+		"list.focusOutline": "#ffffff00"
 	},
 	"tokenColors": [
 		{
