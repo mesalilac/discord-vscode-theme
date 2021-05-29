@@ -1,0 +1,25 @@
+{
+    "name": "discord-vscode-theme",
+    "displayName": "discord-vscode-theme",
+    "description": "discord theme",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.56.0"
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/Senpai-10/discord-vscode-theme"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "discord theme",
+                "uiTheme": "vs-dark",
+                "path": "./themes/discord theme-color-theme.json"
+            }
+        ]
+    }
+}
