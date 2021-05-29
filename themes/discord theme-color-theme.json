@@ -2,6 +2,7 @@
 	"name": "discord theme",
 	"type": "dark",
 	"colors": {
+		"focusBorder": "#545ec4",
 		"editor.background": "#27292e",
 		"editor.foreground": "#ffffff",
 		"editorLineNumber.activeForeground": "#545ec4",
@@ -14,7 +15,7 @@
 		"activityBar.foreground": "#bdbdbd",
 		"activityBar.background":"#27292e",
 		"activityBar.activeFocusBorder": "#515cdb",
-		"activityBar.activeBorder": "#515cdb",
+		"activityBar.activeBorder": "#515ddb",
 		"activityBarBadge.background": "#515cdb",
 
 		"statusBar.background": "#515cdb",
@@ -28,9 +29,10 @@
 
 		"sideBar.background": "#27292e",
 		"sideBar.foreground": "#c9c9c9",
-		"sideBarSectionHeader.background": "#2f3136",
 		"sideBarTitle.foreground": "#c9c9c9",
-		
+		"sideBarSectionHeader.background": "#ffffff00",
+		"sideBarSectionHeader.foreground": "#bdbdbd",
+
 		"list.activeSelectionBackground": "#4852c4",
 		"list.hoverBackground": "#4852c4",
 		"list.inactiveSelectionBackground": "#3d46a8",
