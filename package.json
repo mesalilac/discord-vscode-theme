@@ -6,6 +6,7 @@
     "engines": {
         "vscode": "^1.56.0"
     },
+    "icon": "icon.png",
     "repository": {
         "type": "git",
         "url": "https://github.com/Senpai-10/discord-vscode-theme"
