@@ -2,7 +2,7 @@
     "name": "discord-vscode-theme",
     "displayName": "discord-vscode-theme",
     "description": "discord theme",
-    "version": "0.0.2",
+    "version": "0.0.3",
     "publisher": "senpai1",
     "engines": {
         "vscode": "^1.56.0"
