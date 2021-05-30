@@ -16,8 +16,8 @@
 		"activityBar.background":"#27292e",
 		"activityBar.activeFocusBorder": "#515cdb",
 		"activityBar.activeBorder": "#515ddb",
-		"activityBarBadge.background": "#27292e",
-
+		
+        "activityBarBadge.background": "#27292e",
 		"statusBar.background": "#27292e",
 		"statusBar.foreground": "#8890e6",
 
@@ -37,8 +37,6 @@
 		"list.hoverBackground": "#4852c4",
 		"list.inactiveSelectionBackground": "#3d46a8",
 		"list.focusOutline": "#ffffff00"
-
-
 	},
 	"tokenColors": [
         {
