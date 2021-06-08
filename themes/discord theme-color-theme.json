@@ -8,6 +8,9 @@
 		"editorLineNumber.activeForeground": "#545ec4",
 		"editor.selectionBackground": "#5865f28f",
 		"editorCursor.foreground": "#5865f2",
+        "statusBar.debuggingBackground": "#5865f2",
+        "statusBar.debuggingForeground": "#ffffff",
+        
 
 		"button.background": "#5865f2",
 		"button.hoverBackground": "#515cdb",
